@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+
+<PropertyList>
+    <sim>
+        <model>
+            <livery>
+                <name type="string">LV-NCU</name>
+                <index type="int">3</index>
+                <texture>Liveries\LV-NCU\obj1.png</texture>
+                <texture2>Liveries\LV-NCU\obj3.png</texture2>
+            </livery>
+        </model>
+    </sim>
+</PropertyList>
