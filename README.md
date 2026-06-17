@@ -1,2 +1,3 @@
-# pa11
-Livery for awall86's Flightgear pa11
+# pa11 LV-NCU
+New LV-NCU Livery for Awall86's Piper Pa11 for Flightgear.
+https://www.github.com/awall086/pa11/
